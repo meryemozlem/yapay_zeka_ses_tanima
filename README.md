@@ -5,3 +5,8 @@
 1. Giriş / Sesin okunması ve uygun öznitelik formatına dönüştürülmesi. Yetersiz ses verisinin artırılması.
 2.	Ses verisi ile sınıflandırma problemi.
 3.	SR(Speech Recognition)Uygulamaları.
+
+
+Phonem-->	Sesin en alt birimi
+Lexicon->	Bir dilin kelimelerinin listesi, sözlük
+Utterance-->	Bir ses dosyasında dillendirilen kelimelerin tamamı
