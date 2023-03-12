@@ -1,3 +1,7 @@
-# Konuşma tanıma 1 :Sesi dijital ortama aktarma, ses verisi, veri çoğaltma
+# Konuşma tanıma 1 :, ses verisi
 
-#Bu yapay zeka projesi; plaka tanımı,plaka tespit ve geçen araçların tanımlanmasını yapacaktır.
+#Bu yapay zeka projesinde; ses tanıma, sesi dijital ortama aktarma ve ses verisi çoğaltma işlemleri yapılacaktır.
+İŞLEMLER:
+1. Giriş / Sesin okunması ve uygun öznitelik formatına dönüştürülmesi. Yetersiz ses verisinin artırılması.
+2.	Ses verisi ile sınıflandırma problemi.
+3.	SR(Speech Recognition)Uygulamaları.
