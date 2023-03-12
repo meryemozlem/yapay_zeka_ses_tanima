@@ -7,6 +7,6 @@
 3.	SR(Speech Recognition)Uygulamaları.
 
 
-Phonem-->	Sesin en alt birimi
+Phonem-->	Sesin en alt birimi \n
 Lexicon->	Bir dilin kelimelerinin listesi, sözlük
 Utterance-->	Bir ses dosyasında dillendirilen kelimelerin tamamı
