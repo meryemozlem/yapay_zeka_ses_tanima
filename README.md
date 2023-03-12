@@ -1,4 +1,4 @@
-# Konuşma tanıma 1 :, ses verisi
+# Konuşma tanıma 1 : ses verisi
 
 #Bu yapay zeka projesinde; ses tanıma, sesi dijital ortama aktarma ve ses verisi çoğaltma işlemleri yapılacaktır.
 İŞLEMLER:
